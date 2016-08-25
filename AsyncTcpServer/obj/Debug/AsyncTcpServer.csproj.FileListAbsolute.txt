@@ -1,0 +1,8 @@
+D:\软件开发项目\NetworkApp\AsyncTcpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\软件开发项目\NetworkApp\AsyncTcpServer\obj\Debug\AsyncTcpServer.FormServer.resources
+D:\软件开发项目\NetworkApp\AsyncTcpServer\obj\Debug\AsyncTcpServer.Properties.Resources.resources
+D:\软件开发项目\NetworkApp\AsyncTcpServer\obj\Debug\AsyncTcpServer.csproj.GenerateResource.Cache
+D:\软件开发项目\NetworkApp\AsyncTcpServer\bin\Debug\AsyncTcpServer.exe
+D:\软件开发项目\NetworkApp\AsyncTcpServer\bin\Debug\AsyncTcpServer.pdb
+D:\软件开发项目\NetworkApp\AsyncTcpServer\obj\Debug\AsyncTcpServer.exe
+D:\软件开发项目\NetworkApp\AsyncTcpServer\obj\Debug\AsyncTcpServer.pdb
