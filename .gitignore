@@ -1,0 +1,14 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/WindowsFormsApplication1/bin/Debug
+/WindowsFormsApplication1/obj/Debug/WinFormDemo.csprojResolveAssemblyReference.cache
+/WindowsFormsApplication1/obj/Debug/WinFormDemo.csproj.GenerateResource.Cache
+/WindowsFormsApplication1/obj/Debug/WinFormDemo.csproj.FileListAbsolute.txt
+/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.UDPChat.resources
+/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.QRCode.resources
+/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
+/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb
+/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Main.resources
+/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
