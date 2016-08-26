@@ -50,6 +50,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EncoderDecoder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EncoderDecoder.Designer.cs">
+      <DependentUpon>EncoderDecoder.cs</DependentUpon>
+    </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,6 +82,9 @@
     <Compile Include="UDPChat.Designer.cs">
       <DependentUpon>UDPChat.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="EncoderDecoder.resx">
+      <DependentUpon>EncoderDecoder.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>

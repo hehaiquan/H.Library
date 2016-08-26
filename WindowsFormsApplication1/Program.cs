@@ -16,7 +16,7 @@ namespace WinFormDemo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PingForm());
+            Application.Run(new EncoderDecoder());
         }
     }
 }
